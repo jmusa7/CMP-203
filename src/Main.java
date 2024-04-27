@@ -12,7 +12,7 @@ public class Main {
         String password = "0123456789";
 
         String login() {
-            if (username.equals("david") && password.equals("0123456789")) {
+            if (username.equals("Ayomide") && password.equals("0123456789")) {
                 return "Login successful!";
             } else {
                 return "Invalid username or password. Please try again.";
