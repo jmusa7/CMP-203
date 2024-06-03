@@ -1,4 +1,4 @@
-package OOP_1;
+package OOP;
 
 public class User {
     String name;
