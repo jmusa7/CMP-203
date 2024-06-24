@@ -5,7 +5,7 @@ public class Main{
         Person person1 = new Person();
         person1.setName("Ayomide");
         person1.displayName();
-        Person student = new Person("Ayomide", "12345", "Bingham university", "BHU/22/04/05/0001");
+        Person student = new Person("Ayomide", "12345", "Bingham university", "BHU/22/04/05/0002");
         Person staff = new Person("Bingham university", "J$$67", "54321", "056");
         System.out.println();
         System.out.println(student);
